@@ -1,0 +1,10 @@
+<CodeBlock language="gitignore" editable>
+# Java compiled files
+*.class
+bin/
+target/
+.env
+*.properties
+*.log
+.vscode/
+</CodeBlock>
